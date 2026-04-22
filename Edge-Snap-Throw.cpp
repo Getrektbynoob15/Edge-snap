@@ -2,7 +2,7 @@
 // @id              edge-snap-throw-fork
 // @name            Edge Snap Throw - Fork
 // @description     Slide a window into a screen edge and it snaps like native Windows snap
-// @version         2.0.0
+// @version         2.0.1
 // @author          Getrektbynoob15
 // @github          https://github.com/Getrektbynoob15
 // @include         *
